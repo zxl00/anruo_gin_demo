@@ -1,0 +1,5 @@
+server:
+  port: 8895
+  address: 0.0.0.0
+  name: anruo-gin-demo
+  model: debug # 生产环境建议使用release，debug：可以使用debug模式
